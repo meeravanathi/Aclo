@@ -47,7 +47,7 @@ The project includes a Tkinter-based graphical user interface (GUI) to:
 ## LOAN ACCEPTED
 ![image](https://github.com/user-attachments/assets/b8adc435-fdcd-4b46-a49e-dc0e6a528cbc)
 
-# LOAN DENIED
+## LOAN DENIED
 ![Screenshot 2024-09-03 162526](https://github.com/user-attachments/assets/6b1071a1-cd1e-48ca-8ea1-166ace35f1f1)
 
 ## Installation
